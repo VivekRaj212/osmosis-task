@@ -11,7 +11,7 @@ This is a short note to understand my implementation on this task:
 
 4.)  I have created a authentication in backend for user registration and login using jwt verifcation.
 
-5.   Connected fronted reactjs to backend  using cors policy.
+5.)   Connected fronted reactjs to backend  using cors policy.
    
 6.)   Implemented a functionality of signup and login in frontend.
      
