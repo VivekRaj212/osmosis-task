@@ -24,4 +24,4 @@ This is a short note to understand my implementation on this task:
 10.)  Backend is running at  http://localhost:9090/ 
 
 
-*** I skipped the implementation of mysql, I used mongodb for database
+*** I skipped the implementation of mysql, I used mongodb for database.
