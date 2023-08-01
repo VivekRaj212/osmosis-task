@@ -1,5 +1,3 @@
-![Screenshot (839)](https://github.com/VivekRaj212/osmosis-task/assets/98600965/676e25ec-8581-4535-9f17-e55e12623ffb)
-![Uploading Screenshot (838).png…]()
 
 
 # osmosis-task
@@ -31,6 +29,10 @@ This is a short note to understand my implementation on this task:
 *** I skipped the implementation of mysql, I used mongodb for database.
 
 
-![Uploading Screenshot (837).png…]()
-![Uploading Screenshot (836).png…]()
+![Screenshot (836)](https://github.com/VivekRaj212/osmosis-task/assets/98600965/f359e070-f8c7-42bb-a010-e5fd1d70ee13)
 
+![Screenshot (837)](https://github.com/VivekRaj212/osmosis-task/assets/98600965/b0e56d2c-6706-43a0-92aa-bea6bf5c3666)
+
+![Screenshot (838)](https://github.com/VivekRaj212/osmosis-task/assets/98600965/7e781481-b4d1-4447-a0cc-4a8677f5a846)
+
+![Screenshot (839)](https://github.com/VivekRaj212/osmosis-task/assets/98600965/41e5fd8d-3da1-48ee-807a-9dbba091937c)
