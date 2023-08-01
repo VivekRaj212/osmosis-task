@@ -1,0 +1,49 @@
+.container {
+
+   column-gap: 870px;
+}
+
+#magnify-icon {
+
+    padding-right: 40px;
+}
+
+.me-auto  {
+
+    column-gap: 30px;
+    align-items: center;
+}
+.navbar {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+}
+
+img {
+
+    width: 100px;
+    
+}
+
+
+/* Responsive Styles for Mobile */
+@media (max-width: 576px) {
+    .container {
+      flex-direction: column;
+    }
+  
+    .me-auto {
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 10px;
+    }
+  
+    #magnify-icon {
+      padding-right: 0;
+    }
+  }
+
+    Link {
+      text-decoration: none;
+    }
+
+

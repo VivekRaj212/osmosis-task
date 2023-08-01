@@ -1,0 +1,38 @@
+
+
+.heading-content {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+#filter {
+
+    color: rgb(131, 128, 128);
+}
+
+.filter-area {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 30px;
+    padding-left: 200px;
+}
+
+.arrange-icon {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
