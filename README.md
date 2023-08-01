@@ -1,3 +1,5 @@
+![Screenshot (837)](https://github.com/VivekRaj212/osmosis-task/assets/98600965/606dd4d3-5d30-481f-843b-cbcf2151c7ae)
+![Screenshot (836)](https://github.com/VivekRaj212/osmosis-task/assets/98600965/208fa7a0-7bf3-4cab-af56-1e5b934abe09)
 # osmosis-task
 
 
